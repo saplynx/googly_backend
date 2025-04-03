@@ -1,0 +1,5 @@
+class LiveData {
+    constructor() {
+        
+    }
+}
